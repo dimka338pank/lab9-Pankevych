@@ -1,2 +1,1 @@
 print("Hello, Панькевич Дімка338!\n\n\n\n")
-print("pelmene")
